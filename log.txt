@@ -11,3 +11,4 @@
 0612. ✅ test: test user registration edge cases
 0301. 🎨 style: apply consistent indentation
 0021. ✨ feat: support email verification
+0756. ✨ feat: support email verification

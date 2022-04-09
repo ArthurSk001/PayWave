@@ -13,3 +13,4 @@
 0021. ✨ feat: support email verification
 0756. ✨ feat: support email verification
 0068. 🐛 fix: fix null pointer exception on login
+0799. ♻️ chore: clean up unused files

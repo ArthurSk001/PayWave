@@ -15,3 +15,4 @@
 0068. 🐛 fix: fix null pointer exception on login
 0799. ♻️ chore: clean up unused files
 0376. 🎨 style: apply consistent indentation
+0428. 🐛 fix: fix null pointer exception on login

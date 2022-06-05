@@ -17,3 +17,4 @@
 0376. 🎨 style: apply consistent indentation
 0428. 🐛 fix: fix null pointer exception on login
 0079. 🐛 fix: correct typo in registration form
+0425. 🔧 refactor: refactor quiz grading logic

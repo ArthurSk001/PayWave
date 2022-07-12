@@ -21,3 +21,4 @@
 0505. ♻️ chore: add GitHub actions badge
 0536. ✨ feat: add user authentication
 0161. ✨ feat: create admin dashboard
+0914. ✅ test: test user registration edge cases

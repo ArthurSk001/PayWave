@@ -23,3 +23,4 @@
 0161. ✨ feat: create admin dashboard
 0914. ✅ test: test user registration edge cases
 0588. 🔧 refactor: organize models into subfolders
+0687. 🎨 style: remove trailing whitespace

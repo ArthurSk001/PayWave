@@ -26,3 +26,4 @@
 0687. 🎨 style: remove trailing whitespace
 0326. 🚀 perf: cache repeated calculations
 0738. 🐛 fix: prevent crash on empty input
+0125. ✅ test: add integration test for /submit endpoint

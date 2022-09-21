@@ -34,3 +34,4 @@
 0187. ✨ feat: support email verification
 0182. 🔧 refactor: remove redundant code blocks
 0739. 🎨 style: remove trailing whitespace
+0289. 🐛 fix: resolve issue with date parsing

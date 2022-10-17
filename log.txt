@@ -38,3 +38,4 @@
 0158. 📚 docs: clarify environment setup
 0059. ♻️ chore: bump dependencies
 0859. ✨ feat: create admin dashboard
+0802. 🔧 refactor: remove redundant code blocks

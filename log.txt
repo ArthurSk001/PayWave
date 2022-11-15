@@ -45,3 +45,4 @@
 0317. ✅ test: test user registration edge cases
 0199. ✨ feat: create admin dashboard
 0984. ♻️ chore: clean up unused files
+0178. ✨ feat: support email verification

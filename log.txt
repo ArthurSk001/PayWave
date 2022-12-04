@@ -47,3 +47,4 @@
 0984. ♻️ chore: clean up unused files
 0178. ✨ feat: support email verification
 0319. 🐛 fix: handle 500 error in quiz API
+0356. 📚 docs: write FAQ section

@@ -51,3 +51,4 @@
 0949. 📚 docs: write FAQ section
 0360. ✨ feat: add export to CSV option
 0609. 🐛 fix: handle 500 error in quiz API
+0128. ♻️ chore: rename env.example

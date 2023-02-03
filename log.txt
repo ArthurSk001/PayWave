@@ -56,3 +56,4 @@
 0489. 🔧 refactor: organize models into subfolders
 0803. ✅ test: mock database connection in test suite
 0908. ♻️ chore: bump dependencies
+0979. 🎨 style: standardize quote style

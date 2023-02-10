@@ -57,3 +57,4 @@
 0803. ✅ test: mock database connection in test suite
 0908. ♻️ chore: bump dependencies
 0979. 🎨 style: standardize quote style
+0835. 🐛 fix: prevent crash on empty input

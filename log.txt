@@ -78,3 +78,4 @@
 0830. 🎨 style: apply consistent indentation
 0730. ✅ test: test user registration edge cases
 0641. 📚 docs: write FAQ section
+0747. 🔧 refactor: clean up auth middleware

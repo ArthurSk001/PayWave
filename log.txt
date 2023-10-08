@@ -87,3 +87,4 @@
 0063. 🐛 fix: handle 500 error in quiz API
 0655. 🚀 perf: cache repeated calculations
 0922. 📚 docs: write FAQ section
+0661. ✅ test: add integration test for /submit endpoint

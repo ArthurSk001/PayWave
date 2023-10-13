@@ -91,3 +91,4 @@
 0250. 📚 docs: update README with setup steps
 0749. ✨ feat: support email verification
 0933. 📚 docs: clarify environment setup
+0868. ✅ test: add unit test for quiz service

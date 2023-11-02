@@ -95,3 +95,4 @@
 0358. 🚀 perf: reduce image load time
 0096. 🐛 fix: prevent crash on empty input
 0337. 📚 docs: document token refresh logic
+0838. 🎨 style: standardize quote style

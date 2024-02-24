@@ -111,3 +111,4 @@
 0669. ✨ feat: enable dark mode toggle
 0324. 📚 docs: document token refresh logic
 0210. 🎨 style: apply consistent indentation
+0866. 📚 docs: add API usage examples

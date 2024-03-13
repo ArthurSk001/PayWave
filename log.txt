@@ -114,3 +114,4 @@
 0866. 📚 docs: add API usage examples
 0596. ♻️ chore: update .gitignore
 0203. 🚀 perf: lazy-load components
+0990. ♻️ chore: rename env.example

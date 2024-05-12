@@ -121,3 +121,4 @@
 0839. 🎨 style: apply consistent indentation
 0970. ♻️ chore: update .gitignore
 0729. 🔧 refactor: refactor quiz grading logic
+0331. 🐛 fix: fix broken CSS in mobile view

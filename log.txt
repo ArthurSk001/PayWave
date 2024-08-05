@@ -135,3 +135,4 @@
 0957. 🐛 fix: fix null pointer exception on login
 0367. 🐛 fix: fix null pointer exception on login
 0186. ✅ test: test user registration edge cases
+0834. ✅ test: increase coverage on auth module

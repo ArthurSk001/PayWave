@@ -138,3 +138,4 @@
 0834. ✅ test: increase coverage on auth module
 0104. 🎨 style: apply consistent indentation
 0923. ✨ feat: support email verification
+0972. 🔧 refactor: refactor quiz grading logic

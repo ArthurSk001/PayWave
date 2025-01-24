@@ -164,3 +164,4 @@
 0523. ♻️ chore: bump dependencies
 0991. ♻️ chore: clean up unused files
 0080. ✨ feat: support email verification
+0120. ✅ test: add integration test for /submit endpoint

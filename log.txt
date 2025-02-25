@@ -169,3 +169,4 @@
 0003. ✅ test: increase coverage on auth module
 0372. ✨ feat: add user authentication
 0723. 🔧 refactor: remove redundant code blocks
+0517. ✅ test: mock database connection in test suite

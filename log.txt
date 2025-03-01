@@ -171,3 +171,4 @@
 0723. 🔧 refactor: remove redundant code blocks
 0517. ✅ test: mock database connection in test suite
 0170. ✅ test: increase coverage on auth module
+0412. ✅ test: increase coverage on auth module

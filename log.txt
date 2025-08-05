@@ -191,3 +191,4 @@
 0742. 📚 docs: clarify environment setup
 0320. 📚 docs: update README with setup steps
 0260. ✨ feat: create admin dashboard
+0587. 🔧 refactor: remove redundant code blocks

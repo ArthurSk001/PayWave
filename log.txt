@@ -193,3 +193,4 @@
 0260. ✨ feat: create admin dashboard
 0587. 🔧 refactor: remove redundant code blocks
 0761. ✅ test: add unit test for quiz service
+0181. ♻️ chore: add GitHub actions badge
